@@ -1,4 +1,5 @@
 payload:
+    - +.vrdesktop.net
     - api.vrdesktop.net
     - update.vrdesktop.net
     - cdn.vrdesktop.net
@@ -9,5 +10,3 @@ payload:
     - api.virtualdesktop.com
     - cdn.virtualdesktop.com
     - download.vrdesktop.net
-    - +.vrdesktop.net
-    
