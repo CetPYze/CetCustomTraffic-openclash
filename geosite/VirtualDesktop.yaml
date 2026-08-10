@@ -1,13 +1,15 @@
 payload:
+    - america.vrdesktop.net
+    - europe.vrdesktop.net
+    - api.vrdesktop.net
+    - update.vrdesktop.net
+    - cdn.vrdesktop.net
+    - telemetry.vrdesktop.net
+    - stats.vrdesktop.net
+    - relay.vrdesktop.net
+    - remote.vrdesktop.net
+    - api.virtualdesktop.com
+    - cdn.virtualdesktop.com
+    - download.vrdesktop.net
     - +.vrdesktop.net
     - +.vrdesktop.com
-#    - api.vrdesktop.net
-#    - update.vrdesktop.net
-#    - cdn.vrdesktop.net
-#    - telemetry.vrdesktop.net
-#    - stats.vrdesktop.net
-#    - relay.vrdesktop.net
-#    - remote.vrdesktop.net
-#    - api.virtualdesktop.com
-#    - cdn.virtualdesktop.com
-#    - download.vrdesktop.net
