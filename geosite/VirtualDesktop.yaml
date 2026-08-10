@@ -9,3 +9,5 @@ payload:
     - api.virtualdesktop.com
     - cdn.virtualdesktop.com
     - download.vrdesktop.net
+    - +.vrdesktop.net
+    
