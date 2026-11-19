@@ -1,0 +1,28 @@
+payload:
+  # --- ARK 游戏本体 / 官方服务 ---
+  - arkdedicated.com
+  - +.arkdedicated.com
+  - playark.com
+  - +.playark.com
+  - survivetheark.com
+  - +.survivetheark.com
+  - studiowildcard.com
+  - +.studiowildcard.com
+  - ark.gg
+  - +.ark.gg
+
+  # --- 官方模组平台 (CurseForge) ---
+  - curseforge.com
+  - +.curseforge.com
+  - api.curseforge.com
+  - 83374.api.curseforge.com
+  - support.curseforge.com
+  - static-beta.curseforge.com
+
+  # --- 模组文件下载与分发节点 (CDN) ---
+  - forgecdn.net
+  - +.forgecdn.net
+  - edge.forgecdn.net
+  - media.forgecdn.net
+  - mediafilez.forgecdn.net
+  - cfcore-assets.forgecdn.net
